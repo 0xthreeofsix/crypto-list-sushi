@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="433px"
+   height="402px"
+   viewBox="0 0 433 402"
+   version="1.1"
+   id="svg20"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">PulseChain Logo Shape</title>
+  <defs
+     id="defs15">
+    <rect
+       x="259.55029"
+       y="282.34409"
+       width="138.37954"
+       height="65.922214"
+       id="rect3064" />
+    <linearGradient
+       x1="76.2262818%"
+       y1="7.45934826%"
+       x2="23.6511094%"
+       y2="92.5655852%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#00EAFF"
+         offset="0%"
+         id="stop4" />
+      <stop
+         stop-color="#0080FF"
+         offset="25.2530882%"
+         id="stop6" />
+      <stop
+         stop-color="#8000FF"
+         offset="49.7394282%"
+         id="stop8" />
+      <stop
+         stop-color="#E619E6"
+         offset="74.9912298%"
+         id="stop10" />
+      <stop
+         stop-color="#FF0000"
+         offset="99.9136118%"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     style="display:inline">
+    <g
+       id="Logo"
+       transform="translate(-133,-149)"
+       fill="url(#linearGradient-1)"
+       style="display:inline">
+      <path
+         d="m 565.59876,372.95103 c 0,2.05138 -0.47487,4.00147 -1.37544,5.69382 l -92.66496,160.50031 c -3.92992,6.80682 -11.19271,11 -19.05256,11 H 246.59296 c -7.85984,0 -15.12264,-4.19318 -19.05256,-11 L 134.86679,378.62955 C 133.96884,376.94002 133.5,374.9993 133.5,372.95103 c 0,-6.64313 5.38532,-12.02845 12.02844,-12.02845 h 101.6709 l 25.76604,43.76537 0.15838,0.2615 c 3.43837,5.52069 10.67292,7.32001 16.30956,4.00158 v 0 l 0.29171,-0.17734 c 2.59893,-1.631 4.48042,-4.19692 5.25099,-7.17578 v 0 l 32.83148,-126.92021 28.19085,204.33418 0.0427,0.28487 c 1.04127,6.42807 7.03137,10.88155 13.51678,9.9868 v 0 l 0.29461,-0.0444 c 4.69559,-0.76606 8.51043,-4.23471 9.70661,-8.85885 v 0 l 39.57395,-152.98382 16.24872,27.60004 0.16134,0.26612 c 2.19288,3.51432 6.04721,5.65989 10.20418,5.65989 v 0 h 107.82307 v 0 c 6.64313,0 12.02844,5.38532 12.02844,12.02845 z M 452.5058,149.49365 c 7.85985,0 15.12264,4.19317 19.05256,11 l 92.67075,160.50761 c 0.89617,1.69057 1.36965,3.63958 1.36965,5.68652 0,6.64312 -5.38531,12.02844 -12.02844,12.02844 H 451.56633 l -25.76604,-43.76536 -0.17735,-0.29171 c -1.631,-2.59893 -4.19691,-4.48042 -7.17578,-5.25099 v 0 l -0.2797,-0.0689 c -6.34092,-1.48226 -12.73823,2.36339 -14.37782,8.70161 v 0 l -32.8324,126.91927 -28.18992,-204.33325 -0.0443,-0.29461 c -0.76606,-4.69559 -4.23471,-8.51042 -8.85886,-9.7066 -6.43142,-1.6637 -12.99381,2.20132 -14.65751,8.63274 v 0 l -39.57488,152.9829 -16.2478,-27.59911 -0.16133,-0.26613 c -2.19288,-3.51431 -6.04721,-5.65989 -10.20418,-5.65989 v 0 H 145.52844 v 0 c -6.64312,0 -12.02844,-5.38532 -12.02844,-12.02844 0,-2.03125 0.45626,-3.95236 1.33766,-5.63162 L 227.5404,160.49365 c 3.92992,-6.80683 11.19272,-11 19.05256,-11 z"
+         id="PulseChain-Logo-Shape" />
+    </g>
+  </g>
+  <g
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text3062"
+       style="font-size:53.3333px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3064);display:none"
+       transform="translate(-12.93404,8.2395835)" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;display:inline"
+       x="260.49289"
+       y="342.16776"
+       id="text2851"><tspan
+         id="tspan2849"
+         x="260.49289"
+         y="342.16776"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">tPLS</tspan></text>
+  </g>
+  <metadata
+     id="metadata5436">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>PulseChain Logo Shape</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
