@@ -19,7 +19,7 @@
     "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B.jpg",
     "name": "Across Protocol Token",
     "symbol": "ACX"
   },
@@ -35,7 +35,7 @@
     "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED.jpg",
     "name": "agEUR",
     "symbol": "agEUR"
   },
@@ -69,7 +69,7 @@
     "name": "BOB",
     "symbol": "BOB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg"
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg"
   },
   {
     "chainId": 10,
@@ -83,7 +83,7 @@
     "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2.jpg",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH"
   },
@@ -91,7 +91,7 @@
     "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53.jpg",
     "name": "Curve DAO Token",
     "symbol": "CRV"
   },
@@ -101,7 +101,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/dai.jpg"
   },
   {
     "chainId": 10,
@@ -181,7 +181,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/fxs.jpg"
   },
   {
     "chainId": 10,
@@ -291,7 +291,7 @@
     "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1.jpg",
     "name": "NFTEarthOFT",
     "symbol": "NFTE"
   },
@@ -419,7 +419,7 @@
     "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
     "name": "Synth sUSD",
     "symbol": "sUSD"
   },
@@ -429,7 +429,7 @@
     "name": "SushiToken",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
   },
   {
     "chainId": 10,
@@ -491,7 +491,7 @@
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -523,7 +523,7 @@
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
     "chainId": 10,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },
@@ -531,7 +531,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x4200000000000000000000000000000000000006.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/optimism/0x4200000000000000000000000000000000000006.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },

@@ -3,7 +3,7 @@
     "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-assets-trustwallet/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -11,7 +11,7 @@
     "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-assets-trustwallet/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png",
     "name": "Maker",
     "symbol": "MKR"
   },
@@ -34,7 +34,7 @@
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "chainId": 4,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-assets-trustwallet/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   }

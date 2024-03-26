@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/list.git",
+    "url": "git+https://github.com/0xthreeofsix/crypto-list-sushi.git",
     "directory": "lists/token-lists/default-token-list"
   },
   "keywords": [

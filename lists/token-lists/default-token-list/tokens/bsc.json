@@ -3,7 +3,7 @@
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ada.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/ada.jpg",
     "name": "Cardano Token",
     "symbol": "ADA"
   },
@@ -11,7 +11,7 @@
     "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89.jpg",
     "name": "agEUR",
     "symbol": "agEUR"
   },
@@ -19,7 +19,7 @@
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alpha.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/alpha.jpg",
     "name": "AlphaToken",
     "symbol": "ALPHA"
   },
@@ -27,7 +27,7 @@
     "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ankr.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/ankr.jpg",
     "name": "Ankr",
     "symbol": "ANKR"
   },
@@ -75,7 +75,7 @@
     "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/band.jpg",
     "name": "BAND Protocol Token",
     "symbol": "BAND"
   },
@@ -83,7 +83,7 @@
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bch.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/bch.jpg",
     "name": "Bitcoin Cash Token",
     "symbol": "BCH"
   },
@@ -107,7 +107,7 @@
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg",
     "name": "BOB",
     "symbol": "BOB"
   },
@@ -131,7 +131,7 @@
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
     "name": "BTCB Token",
     "symbol": "BTCB"
   },
@@ -147,7 +147,7 @@
     "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49.jpg",
     "name": "BitTorrent",
     "symbol": "BTT"
   },
@@ -163,7 +163,7 @@
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
     "name": "BUSD Token",
     "symbol": "BUSD"
   },
@@ -171,7 +171,7 @@
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.jpg",
     "name": "PancakeSwap Token",
     "symbol": "Cake"
   },
@@ -187,7 +187,7 @@
     "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.jpg",
     "name": "CheckDot",
     "symbol": "CDT"
   },
@@ -203,7 +203,7 @@
     "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.jpg",
     "name": "pTokens CGG",
     "symbol": "CGG"
   },
@@ -211,7 +211,7 @@
     "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cream.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/cream.jpg",
     "name": "Cream",
     "symbol": "CREAM"
   },
@@ -227,7 +227,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
     "name": "Dai Token",
     "symbol": "DAI"
   },
@@ -251,7 +251,7 @@
     "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dot.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/dot.jpg",
     "name": "Polkadot Token",
     "symbol": "DOT"
   },
@@ -259,7 +259,7 @@
     "address": "0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x45808Ce43eb2D7685fF0242631f0FeB6f3D8701a.jpg",
     "name": "EKTAv2",
     "symbol": "EKTAv2"
   },
@@ -267,7 +267,7 @@
     "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eos.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/eos.jpg",
     "name": "EOS Token",
     "symbol": "EOS"
   },
@@ -275,7 +275,7 @@
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.jpg",
     "name": "Ethereum Token",
     "symbol": "ETH"
   },
@@ -283,7 +283,7 @@
     "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/fil.jpg",
     "name": "Filecoin",
     "symbol": "FIL"
   },
@@ -291,7 +291,7 @@
     "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/frax.jpg",
     "name": "Frax",
     "symbol": "FRAX"
   },
@@ -307,7 +307,7 @@
     "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/front.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/front.jpg",
     "name": "Frontier Token",
     "symbol": "FRONT"
   },
@@ -323,7 +323,7 @@
     "address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/fxs.jpg",
     "name": "Frax Share",
     "symbol": "FXS"
   },
@@ -347,7 +347,7 @@
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xf16e81dce15B08F326220742020379B855B87DF9.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0xf16e81dce15B08F326220742020379B855B87DF9.jpg",
     "name": "IceToken",
     "symbol": "ICE"
   },
@@ -355,7 +355,7 @@
     "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/inj.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/inj.jpg",
     "name": "Injective Protocol",
     "symbol": "INJ"
   },
@@ -395,7 +395,7 @@
     "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/link.jpg",
     "name": "ChainLink Token",
     "symbol": "LINK"
   },
@@ -403,7 +403,7 @@
     "address": "0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD.jpg",
     "name": "Lunar",
     "symbol": "LNR"
   },
@@ -411,7 +411,7 @@
     "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ltc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/ltc.jpg",
     "name": "Litecoin Token",
     "symbol": "LTC"
   },
@@ -459,7 +459,7 @@
     "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg",
     "name": "Magic Internet Money",
     "symbol": "MIM"
   },
@@ -499,7 +499,7 @@
     "address": "0x8506560320826e459F356CB56cCF721Da8875414",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg",
     "name": "NICE",
     "symbol": "nICE"
   },
@@ -507,7 +507,7 @@
     "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
     "name": "Neptune Mutual",
     "symbol": "NPM"
   },
@@ -523,7 +523,7 @@
     "address": "0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9.jpg",
     "name": "NUM Token [via ChainPort.io]",
     "symbol": "NUM"
   },
@@ -563,7 +563,7 @@
     "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ont.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/ont.jpg",
     "name": "Ontology Token",
     "symbol": "ONT"
   },
@@ -619,7 +619,7 @@
     "address": "0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg",
     "name": "Spell",
     "symbol": "SPELL"
   },
@@ -627,7 +627,7 @@
     "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg",
     "name": "Staked Spell",
     "symbol": "sSPELL"
   },
@@ -643,7 +643,7 @@
     "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg",
     "name": "StargateToken",
     "symbol": "STG"
   },
@@ -659,7 +659,7 @@
     "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
     "name": "Binance-Peg SushiToken",
     "symbol": "SUSHI.binance"
   },
@@ -667,7 +667,7 @@
     "address": "0x986cdF0fd180b40c4D6aEAA01Ab740B996D8b782",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/sushi.jpg",
     "name": "SushiToken MultiChain",
     "symbol": "SUSHI.multichain"
   },
@@ -675,7 +675,7 @@
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sxp.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/sxp.jpg",
     "name": "Swipe",
     "symbol": "SXP"
   },
@@ -707,7 +707,7 @@
     "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/uni.jpg",
     "name": "Uniswap",
     "symbol": "UNI"
   },
@@ -715,7 +715,7 @@
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
     "name": "Binance-Peg USD Coin",
     "symbol": "USDC"
   },
@@ -723,7 +723,7 @@
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -739,7 +739,7 @@
     "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/ust.jpg",
     "name": "UST Token",
     "symbol": "UST"
   },
@@ -755,7 +755,7 @@
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
     "name": "Wrapped BNB",
     "symbol": "WBNB"
   },
@@ -795,7 +795,7 @@
     "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xrp.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/xrp.jpg",
     "name": "XRP Token",
     "symbol": "XRP"
   },
@@ -803,7 +803,7 @@
     "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xtz.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/xtz.jpg",
     "name": "Tezos Token",
     "symbol": "XTZ"
   },
@@ -811,7 +811,7 @@
     "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xvs.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/xvs.jpg",
     "name": "Venus",
     "symbol": "XVS"
   },
@@ -819,7 +819,7 @@
     "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/yfi.jpg",
     "name": "yearn.finance",
     "symbol": "YFI"
   },
@@ -827,7 +827,7 @@
     "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfii.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/yfii.jpg",
     "name": "YFII.finance Token",
     "symbol": "YFII"
   },
@@ -835,7 +835,7 @@
     "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/zec.jpg",
     "name": "Zcash Token",
     "symbol": "ZEC"
   }

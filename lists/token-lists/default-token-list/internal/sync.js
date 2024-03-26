@@ -95,7 +95,7 @@ const NAME = {
         // Check if logoURI has correct path
         if (!token.logoURI.includes("sushiswap/icons")) {
           // TODO: Automate this part...
-          const logoURI = `https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/${icon}.jpg`;
+          const logoURI = `https://raw.githubusercontent.com/0xthreeofsix/crypto-list-sushi/master/logos/token-logos/token/${icon}.jpg`;
 
           console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
         } else {

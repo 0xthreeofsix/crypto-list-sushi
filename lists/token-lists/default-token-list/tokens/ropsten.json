@@ -3,7 +3,7 @@
     "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
     "chainId": 3,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-assets-trustwallet/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -34,7 +34,7 @@
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "chainId": 3,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xthreeofsix/crypto-assets-trustwallet/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   }
